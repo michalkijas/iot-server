@@ -1,0 +1,6 @@
+mqtt:
+  url: "tcp://localhost:1883"
+  client-id: "testClient"
+  topics:
+    - "outTopic"
+    - "inTopic"
